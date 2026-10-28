@@ -1,0 +1,307 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "projects": "Projects",
+    "contact": "Contact",
+    "quote": "Request a Quote",
+    "primary": "Primary",
+    "mobile": "Mobile menu",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "homeLabel": "EGY UNITED FOR ELEVATORS — Home",
+    "language": "Language"
+  },
+  "Hero": {
+    "title": "Elevating Standards of <accent>Safety & Quality</accent>",
+    "description": "Comprehensive elevator supply, installation, maintenance, repair, and modernization solutions across Egypt.",
+    "quote": "Request a Quote",
+    "contact": "Contact Us Now",
+    "call": "Or call directly",
+    "imageAlt": "Illustrative photograph of a marble elevator lobby with metal doors",
+    "highlights": ["Supply & Installation", "Modernization", "Repair", "Monthly Maintenance"]
+  },
+  "About": {
+    "eyebrow": "About",
+    "title": "EGY UNITED FOR ELEVATORS — Integrated solutions built around your project",
+    "description": "An Egyptian company providing elevator supply and installation, modernization and replacement, fault repair, and monthly maintenance.",
+    "body": [
+      "We serve residential buildings, villas, companies, malls, hospitals, and industrial and administrative facilities, and we consider the building and the project requirements when defining the right solution.",
+      "Service covers every governorate in Egypt, from defining the need and the site visit through execution and follow-up."
+    ],
+    "points": [
+      "Supply and installation suited to the building.",
+      "Modernization of existing elevators and renewal of their components.",
+      "Repair of faults and technical problems.",
+      "Monthly maintenance to follow the elevator’s technical condition.",
+      "Coverage across all governorates of Egypt."
+    ],
+    "imageAlt": "Illustrative photograph of a glass elevator shaft inside a modern building"
+  },
+  "Services": {
+    "eyebrow": "Services",
+    "title": "Four services across the life of an elevator",
+    "description": "From supply and installation to modernization, repair, and monthly maintenance.",
+    "request": "Request this service",
+    "items": {
+      "supply": {
+        "title": "Elevator Supply & Installation",
+        "description": "We supply and install elevators suited to different buildings, with attention to the requirements of each project.",
+        "alt": "Illustrative photograph of gold capsule elevators inside a multi-storey building"
+      },
+      "modern": {
+        "title": "Elevator Modernization & Replacement",
+        "description": "We help you update existing elevators and improve their components to suit the needs of the building.",
+        "alt": "Illustrative photograph of glass elevators with a metal structure inside a building"
+      },
+      "repair": {
+        "title": "Elevator Repair Services",
+        "description": "Repair services for faults and technical problems on different elevators.",
+        "alt": "Illustrative photograph of an elevator shaft and motion systems inside a glass building"
+      },
+      "maintain": {
+        "title": "Monthly Elevator Maintenance",
+        "description": "Scheduled maintenance to help keep the elevator running properly and to follow its technical condition.",
+        "alt": "Illustrative photograph of an elevator lobby maintained for appearance and operation"
+      }
+    }
+  },
+  "ElevatorTypes": {
+    "eyebrow": "Applications",
+    "title": "Elevators matched to the building",
+    "description": "Building types we provide elevator solutions for. The photographs illustrate the building type and are not photographs of completed projects.",
+    "label": "Application",
+    "items": {
+      "residential": {
+        "title": "Residential building elevators",
+        "text": "Solutions for residential buildings, based on the number of units and how they are used.",
+        "alt": "Illustrative photograph of a modern residential building"
+      },
+      "villa": {
+        "title": "Villa elevators",
+        "text": "Elevators for villas and private homes, suited to the available space and design.",
+        "alt": "Illustrative photograph of a modern villa with an open architectural design"
+      },
+      "office": {
+        "title": "Corporate elevators",
+        "text": "Solutions for headquarters and administrative buildings that need organized daily traffic.",
+        "alt": "Illustrative photograph of glass office towers"
+      },
+      "mall": {
+        "title": "Mall elevators",
+        "text": "Elevators for commercial centers and buildings with high traffic.",
+        "alt": "Illustrative photograph of glass elevators inside a commercial space"
+      },
+      "hospital": {
+        "title": "Hospital elevators",
+        "text": "Solutions for healthcare facilities according to movement requirements inside the building.",
+        "alt": "Illustrative photograph of a modern healthcare building"
+      },
+      "industrial": {
+        "title": "Industrial facility elevators",
+        "text": "Elevators for factories and industrial facilities according to how they operate.",
+        "alt": "Illustrative photograph of an industrial hall inside a factory"
+      }
+    }
+  },
+  "Projects": {
+    "eyebrow": "Our Projects",
+    "title": "A portfolio that reflects the scale of our work",
+    "description": "A selection of the company’s completed work. The cards present the project records as they are, without photographs attributed to these jobs.",
+    "showing": "Showing {shown} of {total}",
+    "showAll": "View all projects",
+    "showLess": "Show fewer projects",
+    "record": "Completed project · No. {id}",
+    "unitOne": "Elevator",
+    "unitTwo": "Elevators",
+    "unitFew": "Elevators",
+    "unitMany": "Elevators",
+    "items": {
+      "1": { "title": "Installation of 33 Elevators at Matrouh University.", "location": "Matrouh", "category": "Education" },
+      "2": { "title": "Supply and Installation of 2 Elevators at Karman Pharmaceutical Factory, Beni Suef.", "location": "Beni Suef", "category": "Industrial" },
+      "3": { "title": "Supply and Installation of a Villa Elevator in El Shorouk.", "location": "El Shorouk", "category": "Villa" },
+      "4": { "title": "Supply and Installation of 2 Elevators at Walad El Balad Mall, Beheira.", "location": "Beheira", "category": "Commercial" },
+      "5": { "title": "Installation of 3 Elevators at City Club, Kafr El Sheikh.", "location": "Kafr El Sheikh", "category": "Leisure" },
+      "6": { "title": "Installation of 2 Elevators at City Club, Banha.", "location": "Banha", "category": "Leisure" },
+      "7": { "title": "Installation of 24 Elevators at Capital Way Compound, New Administrative Capital.", "location": "New Administrative Capital", "category": "Residential" },
+      "8": { "title": "Supply and Installation of an Elevator at the Administrative Building, Alexandria Customs.", "location": "Alexandria", "category": "Administrative" },
+      "9": { "title": "Supply and Installation of an Elevator at Orouba Villa, Alexandria.", "location": "Alexandria", "category": "Villa" },
+      "10": { "title": "Supply and Installation of 3 Elevators in Residential Homes at El Ashra Alaf, Beheira.", "location": "Beheira", "category": "Residential" },
+      "11": { "title": "Supply and Installation of 16 Elevators in Residential Buildings, Alexandria.", "location": "Alexandria", "category": "Residential" },
+      "12": { "title": "Supply and Installation of 6 Elevators at Murooj Compound — Al Furat Villas, Alexandria.", "location": "Alexandria", "category": "Villas" },
+      "13": { "title": "Supply and Installation of 2 Elevators at Palm Hills New Cairo Villas, Cairo.", "location": "Cairo", "category": "Villas" },
+      "14": { "title": "Installation of an Elevator at a Palm Hills Compound Villa, Alexandria.", "location": "Alexandria", "category": "Villa" },
+      "15": { "title": "Supply and Installation of an Elevator at a Katameya Hills Villa, Cairo.", "location": "Cairo", "category": "Villa" }
+    }
+  },
+  "WhyChooseUs": {
+    "eyebrow": "Why Choose Us",
+    "title": "Why choose EGY UNITED FOR ELEVATORS?",
+    "items": [
+      { "title": "Solutions shaped around the project", "text": "We start from the building type and how it is used, then define the supply, installation, or modernization path that fits the request." },
+      { "title": "Installation and maintenance together", "text": "Supply, installation, repair, and monthly maintenance are all within the company’s services." },
+      { "title": "Care in how the work is carried out", "text": "We pay attention to execution details and elevator components according to the requirements of each project." },
+      { "title": "Modernization and replacement", "text": "Updating existing elevators and improving their components according to the needs of the building." },
+      { "title": "Coverage across Egypt", "text": "We provide our services in all governorates of Egypt." },
+      { "title": "Follow-up from the first conversation", "text": "We follow the request from the first contact through execution, and keep maintenance and repair available according to the service requested." }
+    ]
+  },
+  "WorkProcess": {
+    "eyebrow": "How We Work",
+    "title": "Five steps from the first call to completion",
+    "description": "A clear path for supply, installation, modernization, repair, or maintenance.",
+    "items": [
+      { "title": "Contact us", "text": "Call one of the company numbers, or send your details through the quote form on WhatsApp." },
+      { "title": "Define the project requirements", "text": "Building type, service type, and the number of elevators or the condition of the current one." },
+      { "title": "Site visit and assessment", "text": "Review of the building or the existing elevator to define the scope of work." },
+      { "title": "Submit the quotation", "text": "A quotation that sets out the supply or execution scope based on the visit and the project requirements." },
+      { "title": "Execution and follow-up", "text": "Carry out the agreed work, then follow up within the scope of the requested service." }
+    ]
+  },
+  "QuoteForm": {
+    "eyebrow": "Request a Quote",
+    "title": "Looking for the right elevator solution for your building?",
+    "description": "Leave your details and project requirements, and contact the EGY UNITED FOR ELEVATORS team.",
+    "notes": [
+      "The message is prepared automatically and opens in the company’s WhatsApp.",
+      "Choose the governorate, service, and building type so the request is clear.",
+      "You can also call directly without using the form."
+    ],
+    "formTitle": "Quote request details",
+    "name": "Full Name",
+    "phone": "Phone Number",
+    "phonePlaceholder": "01xxxxxxxxx",
+    "governorate": "Governorate",
+    "governoratePlaceholder": "Select a governorate",
+    "service": "Service Type",
+    "servicePlaceholder": "Select a service type",
+    "building": "Building Type",
+    "buildingPlaceholder": "Select a building type",
+    "details": "Project Details",
+    "detailsPlaceholder": "Number of elevators, the condition of the current elevator, or any detail that matters for the site visit",
+    "submit": "Request a Quote Now",
+    "disclaimer": "Submitting opens a WhatsApp message with your request details. Nothing is published on this website.",
+    "success": "Your message is ready. If WhatsApp did not open, <link>send the request here</link>.",
+    "whatsappHeading": "Quote request — {company}",
+    "errors": {
+      "nameMin": "Enter your full name, at least 3 characters.",
+      "nameMax": "This name is too long.",
+      "phoneRequired": "Enter your mobile number.",
+      "phoneInvalid": "Enter a valid Egyptian mobile number starting with 010, 011, 012, or 015.",
+      "governorate": "Select a governorate.",
+      "service": "Select a service type.",
+      "building": "Select a building type.",
+      "detailsMin": "Describe the request in at least 10 characters.",
+      "detailsMax": "These details are too long."
+    },
+    "governorates": {
+      "cairo": "Cairo",
+      "giza": "Giza",
+      "alexandria": "Alexandria",
+      "dakahlia": "Dakahlia",
+      "red-sea": "Red Sea",
+      "beheira": "Beheira",
+      "fayoum": "Fayoum",
+      "gharbia": "Gharbia",
+      "ismailia": "Ismailia",
+      "monufia": "Monufia",
+      "minya": "Minya",
+      "qalyubia": "Qalyubia",
+      "new-valley": "New Valley",
+      "sharqia": "Sharqia",
+      "suez": "Suez",
+      "aswan": "Aswan",
+      "asyut": "Asyut",
+      "beni-suef": "Beni Suef",
+      "port-said": "Port Said",
+      "damietta": "Damietta",
+      "south-sinai": "South Sinai",
+      "north-sinai": "North Sinai",
+      "kafr-el-sheikh": "Kafr El Sheikh",
+      "matrouh": "Matrouh",
+      "luxor": "Luxor",
+      "qena": "Qena",
+      "sohag": "Sohag",
+      "new-capital": "New Administrative Capital"
+    },
+    "services": {
+      "supply": "Elevator Supply & Installation",
+      "modern": "Elevator Modernization & Replacement",
+      "repair": "Elevator Repair Services",
+      "maintain": "Monthly Elevator Maintenance"
+    },
+    "buildings": {
+      "residential": "Residential building",
+      "villa": "Villa",
+      "office": "Company or administrative building",
+      "mall": "Shopping mall",
+      "hospital": "Hospital",
+      "industrial": "Industrial facility",
+      "other": "Other"
+    }
+  },
+  "FAQ": {
+    "eyebrow": "FAQ",
+    "title": "Straight answers before you get in touch",
+    "items": [
+      {
+        "question": "Do you install new elevators?",
+        "answer": "Yes. We supply and install elevators for residential, commercial, industrial, and administrative buildings, according to the requirements of each project."
+      },
+      {
+        "question": "Are your services available in every governorate?",
+        "answer": "Yes. EGY UNITED FOR ELEVATORS services are available in all governorates of Egypt."
+      },
+      {
+        "question": "Do you provide monthly maintenance?",
+        "answer": "Yes. We provide monthly maintenance to help keep the elevator running properly and to follow its technical condition."
+      },
+      {
+        "question": "Can an older elevator be modernized?",
+        "answer": "Yes. We modernize and replace existing elevators and update their components to suit the needs of the building."
+      },
+      {
+        "question": "How do I request a quotation?",
+        "answer": "Fill in the quote form with your details and the request. A ready WhatsApp message will open for you to send. You can also call any of the company numbers directly."
+      }
+    ]
+  },
+  "Contact": {
+    "eyebrow": "Contact Us",
+    "title": "Contact EGY UNITED FOR ELEVATORS",
+    "description": "Every number below belongs to the company. Call directly or message us on WhatsApp.",
+    "line": "Line {index}",
+    "callLabel": "Call {phone}",
+    "whatsapp": "Message us on WhatsApp",
+    "whatsappLabel": "Message the company on WhatsApp",
+    "whatsappMessage": "Hello, I would like to ask about {company} services."
+  },
+  "Footer": {
+    "services": "Services",
+    "links": "Quick links",
+    "phones": "Phone numbers",
+    "why": "Why Choose Us",
+    "process": "How We Work",
+    "faq": "FAQ",
+    "rights": "© {year} {company}. All rights reserved."
+  },
+  "Common": {
+    "nameAr": "ايجي يونايتد للمصاعد",
+    "nameEn": "EGY UNITED FOR ELEVATORS",
+    "logoAlt": "EGY UNITED FOR ELEVATORS logo",
+    "skip": "Skip to content",
+    "notFoundCode": "404",
+    "notFoundTitle": "Page not found",
+    "notFoundText": "This link is not available. You can return to the home page.",
+    "backHome": "Back to home",
+    "errorTitle": "Something unexpected went wrong",
+    "errorText": "Try loading this part of the page again.",
+    "retry": "Try again"
+  },
+  "Metadata": {
+    "title": "EGY UNITED FOR ELEVATORS | Installation & Maintenance in Egypt",
+    "description": "EGY UNITED FOR ELEVATORS provides elevator supply and installation, modernization and replacement, repair, and monthly maintenance for residential, commercial, industrial, and administrative buildings across Egypt.",
+    "ogAlt": "EGY UNITED FOR ELEVATORS logo"
+  }
+}
