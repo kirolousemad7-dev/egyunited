@@ -1,0 +1,72 @@
+@media (min-width: 640px) {
+  .quote-desktop { display: inline-flex; }
+  .hero-actions { flex-direction: row; }
+}
+
+@media (min-width: 768px) {
+  .container { width: min(var(--container), calc(100% - 4rem)); }
+  .section { padding-block: 5rem; }
+  .highlights { grid-template-columns: repeat(4, 1fr); padding-inline-start: 7rem; }
+  .points { grid-template-columns: 1fr 1fr; }
+  .cards-2 { grid-template-columns: 1fr 1fr; }
+  .phones { grid-template-columns: 1fr 1fr; }
+  .fields { grid-template-columns: 1fr 1fr; }
+  .span-2 { grid-column: 1 / -1; }
+  .form { padding: 2rem; }
+  .legal { padding-bottom: 1.25rem; }
+  .fab a.fab-call { display: none; }
+  .footer-grid { grid-template-columns: 1fr 1fr; }
+}
+
+@media (min-width: 1024px) {
+  .desktop-nav { display: flex; }
+  .menu-btn { display: none; }
+  .mobile-nav { display: none !important; }
+  .split, .quote-grid { grid-template-columns: 0.9fr 1.1fr; gap: 2.5rem; }
+  .cards-3 { grid-template-columns: repeat(3, 1fr); }
+  .process { display: none; }
+  .process-desktop {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 1.25rem;
+    margin-top: 2rem;
+    list-style: none;
+    padding: 0;
+    position: relative;
+    text-align: center;
+  }
+  .process-desktop::before {
+    content: "";
+    position: absolute;
+    inset-inline: 8%;
+    top: 1.5rem;
+    height: 1px;
+    background: rgb(212 175 55 / 0.5);
+  }
+  .process-desktop .step-no { margin-inline: auto; }
+  .process-desktop h3 { margin-top: 1.25rem; }
+  .footer-grid { grid-template-columns: repeat(4, 1fr); }
+}
+
+@media (min-width: 1280px) {
+  .desktop-nav { gap: 1.25rem; }
+  .why-grid { grid-template-columns: repeat(3, 1fr); }
+  .cards-4 { grid-template-columns: repeat(4, 1fr); }
+  .phones { grid-template-columns: repeat(4, 1fr); }
+}
+
+@media (max-width: 389px) {
+  .hero h1 { font-size: 2rem; }
+  .brand-kicker { letter-spacing: 0.14em; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+  .js .reveal:not(.is-in) { transform: none; }
+}
